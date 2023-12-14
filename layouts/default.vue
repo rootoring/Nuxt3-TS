@@ -1,6 +1,6 @@
 <template>
   <div class="fff">
-    <CreateUser />
+    <Notfication />
     <TheHeader />
     <NuxtPage />
   </div>
